@@ -1,2 +1,7 @@
 Test 1
+<<<<<<< HEAD
 Test 2
+Test 3
+=======
+Test 2
+>>>>>>> origin/test
